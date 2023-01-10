@@ -1,0 +1,27 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>Video Popup</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div class="banner">
+                <div class="content">
+                    <a href="#" onclick="toggle();">Click here for the Video</a>
+                </div>
+            </div>
+            <div class="trailer">
+                <video src="media/trailer.mp4" controls="true">
+                </video>
+                <img src="media/cross.png" class="close" onclick="toggle();">
+            </div>
+            <script>
+                function toggle(){
+                    var trailer= document.querySelector(".trailer")
+                    var video=document.querySelector("video")
+                    trailer.classList.toggle("active");
+                    video.pause();
+                    video.currentTime=0;
+                }
+            </script>
+        </body>
