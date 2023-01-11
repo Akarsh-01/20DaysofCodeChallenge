@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Colour Change</title>
+    </head>
+    <body>
+        <button>Click to switch color</button>
+        <script>
+            var color=["#ff5733","#fff733","#33eaff","#ff33af"];
+            var i=0;
+            document.querySelector("button").addEventListener("click",function()
+            {
+                i=i<color.length ? ++i:0;
+                document.querySelector("body").style.background=color[i]
+            })
+        </script>
+    </body>
+</html>
