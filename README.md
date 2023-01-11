@@ -7,3 +7,6 @@ Recognized the potential improvements.
 
 Day-2:
 Made a Video on click button.
+
+Day-3:
+Made a background color change button.
