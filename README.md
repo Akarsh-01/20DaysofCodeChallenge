@@ -10,3 +10,6 @@ Made a Video on click button.
 
 Day-3:
 Made a background color change button.
+
+Day-4:
+Made a Clock using HTML,JS,CSS.
