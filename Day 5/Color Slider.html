@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Color Slider</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <div class="container">
+        R<input type="range" min="0" max="255" value="0" id="red"
+        oninput="colors()"><br>
+        G<input type="range" min="0" max="255" value="0" id="green"
+        oninput="colors()"><br>
+        B<input type="range" min="0" max="255" value="0" id="blue"
+        oninput="colors()"><br>        
+        <span id="output">rgb(0,0,0)</span>
+    </div>
+    <style>
+        body{
+            background-color: black;
+        }
+        .container{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            padding: 10px;;
+        }
+    </style>
+    </body>
+</html>
