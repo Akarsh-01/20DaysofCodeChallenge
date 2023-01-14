@@ -16,3 +16,6 @@ Made a Clock using HTML,JS,CSS.
 
 Day-5:
 Added a RGB color slider. Made a function to change background color with the slider.
+
+Day-6:
+Made an Image change button.
