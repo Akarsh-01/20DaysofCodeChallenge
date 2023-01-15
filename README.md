@@ -19,3 +19,6 @@ Added a RGB color slider. Made a function to change background color with the sl
 
 Day-6:
 Made an Image change button.
+
+Day-7:
+Made a responsive navbar.
