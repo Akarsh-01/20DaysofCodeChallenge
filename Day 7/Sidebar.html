@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Responsive Navbar</title>
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	<div class="app">
+		<div class="menu-toggle">
+			<div class="container">
+				<span></span>
+			</div>
+		</div>
+
+		<aside class="sidebar">
+			<h3>Menu</h3>
+			
+			<nav class="menu">
+				<a href="#" class="menu-item is-active">Home</a>
+				<a href="#" class="menu-item">Grades</a>
+				<a href="#" class="menu-item">Marks</a>
+				<a href="#" class="menu-item">About</a>
+                <a href="#" class="menu-item">Support</a>
+			</nav>
+
+		</aside>
+
+		<main class="content">
+			<h1>Welcome everyone,</h1>
+			<p>Day-7: Today I learnt how to create a navbar using HTML,JS,CSS</p>
+		</main>
+	</div>
+
+	<script>
+		const menu_toggle = document.querySelector('.menu-toggle');
+		const sidebar = document.querySelector('.sidebar');
+
+		menu_toggle.addEventListener('click', () => {
+			menu_toggle.classList.toggle('is-active');
+			sidebar.classList.toggle('is-active');
+		});
+	</script>
+</body>
+</html>
