@@ -22,3 +22,6 @@ Made an Image change button.
 
 Day-7:
 Made a responsive navbar.
+
+Day-8:
+Made a calculator using HTML,JS,CSS.
