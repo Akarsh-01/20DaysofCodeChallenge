@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-.title {
-    font-size: 50px;
-    text-align: center;
-    margin: 10% 0 50px 0;
-}
-
 .stopwatch {
     display: grid;
     justify-content: center;
