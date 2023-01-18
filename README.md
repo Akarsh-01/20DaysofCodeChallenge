@@ -28,3 +28,6 @@ Made a calculator using HTML,JS,CSS.
 
 Day-9:
 Made a hidden search button.
+
+Day-10:
+Made a Stopwatch.
