@@ -31,3 +31,6 @@ Made a hidden search button.
 
 Day-10:
 Made a Stopwatch.
+
+Day-11:
+Did something different today. Started on a journey towards developing games through JS and learnt about adding images, sprites and sprite movement/animations.
