@@ -34,3 +34,6 @@ Made a Stopwatch.
 
 Day-11:
 Did something different today. Started on a journey towards developing games through JS and learnt about adding images, sprites and sprite movement/animations.
+
+Day-12:
+Learnt about Groups, Containers, Interaction with Sprite, Phaser Graphics, Text and Sound.
