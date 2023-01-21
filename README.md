@@ -37,3 +37,6 @@ Did something different today. Started on a journey towards developing games thr
 
 Day-12:
 Learnt about Groups, Containers, Interaction with Sprite, Phaser Graphics, Text and Sound.
+
+Day-13:
+Started working on a game using Phaser.js
