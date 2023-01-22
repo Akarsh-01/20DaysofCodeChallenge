@@ -40,3 +40,6 @@ Learnt about Groups, Containers, Interaction with Sprite, Phaser Graphics, Text 
 
 Day-13:
 Started working on a game using Phaser.js
+
+Day-14:
+Added game objects, collision detection, movement, obstructions in the game.
