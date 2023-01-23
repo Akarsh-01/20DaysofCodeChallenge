@@ -43,3 +43,7 @@ Started working on a game using Phaser.js
 
 Day-14:
 Added game objects, collision detection, movement, obstructions in the game.
+
+Day-15:
+Added a ScoreBox.
+
