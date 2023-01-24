@@ -47,3 +47,5 @@ Added game objects, collision detection, movement, obstructions in the game.
 Day-15:
 Added a ScoreBox.
 
+Day-16:
+Created a grid which will be used in the development of the Car Rush game.
