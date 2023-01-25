@@ -49,3 +49,6 @@ Added a ScoreBox.
 
 Day-16:
 Created a grid which will be used in the development of the Car Rush game.
+
+Day-17:
+Added mobile screen support and grids(for now).
