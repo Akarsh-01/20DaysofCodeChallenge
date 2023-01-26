@@ -52,3 +52,6 @@ Created a grid which will be used in the development of the Car Rush game.
 
 Day-17:
 Added mobile screen support and grids(for now).
+
+Day-18:
+Made an age calculator using HTML,JS,CSS.
