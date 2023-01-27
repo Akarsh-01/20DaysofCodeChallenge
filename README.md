@@ -55,3 +55,6 @@ Added mobile screen support and grids(for now).
 
 Day-18:
 Made an age calculator using HTML,JS,CSS.
+
+Day-19:
+Made a page to test reaction time.
