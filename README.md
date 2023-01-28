@@ -58,3 +58,6 @@ Made an age calculator using HTML,JS,CSS.
 
 Day-19:
 Made a page to test reaction time.
+
+Day-20:
+Made a page to check the areas under a certain Postal Code.
